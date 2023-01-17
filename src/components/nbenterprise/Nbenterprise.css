@@ -1,0 +1,20 @@
+.main-container{
+    width: 100%;
+    padding: 1%;
+    background-color: #6F737E;
+    color: #ffff;
+    letter-spacing: 2px;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+.container-item{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.container-item a{
+    text-decoration: none;
+    cursor: pointer;
+    color: #ffff;
+}
