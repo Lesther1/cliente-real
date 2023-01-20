@@ -1,11 +1,11 @@
 import './App.css'
-import Nbenterprise from './components/nbenterprise/Nbenterprise'
+import { Welcomeview } from './view/welcomeview/Welcomeview'
 
 function App() {
 
   return (
     <div>
-      <Nbenterprise/>
+      <Welcomeview/>
     </div>
   )
 }

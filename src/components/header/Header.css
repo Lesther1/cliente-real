@@ -1,0 +1,13 @@
+.main-container-header{
+    margin-left: 25%;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 20%;
+}
+.shopcart{
+    height: 30px;
+    margin-top: 2%;
+}

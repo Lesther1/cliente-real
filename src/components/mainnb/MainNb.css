@@ -1,0 +1,28 @@
+.main-container-mainnb{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100%;
+    display: flex;
+    background-color: #89A09A;
+    font-size: 14px;
+    color: #ffff;
+    letter-spacing: 2px;
+}
+.list-container{
+    width: 60%;
+}
+.list-container ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    
+}
+.time-container{
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.time-container img{
+    height: 14px;
+}
