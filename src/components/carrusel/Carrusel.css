@@ -1,0 +1,79 @@
+.carrusel-container{
+    width: 60%;
+    height: 480px;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px 2px #ccc;
+    border-radius: 10px;
+    margin: 0 0 1% 0;
+}
+.carrusell-item{
+    height: 100%;
+    position: relative;
+}
+.carrusell-card{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    gap: 8px;
+}
+.carrusell-arrow{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+.card-img{
+    width: 100%;
+    height: 60%;
+}
+.arrow img{
+    width: 10px;
+    display: flex;
+    align-items: center;
+}
+.arrow{
+    padding: 3%;
+    background-color: #6f737e;
+    border-radius: 100%;
+}
+.arrow:hover{
+    background-color: #6f737e52;
+}
+.offer{
+    background-color: #3f33f1;
+    text-align: center;
+    width: 20%;
+    color: #ffff;
+    padding: 5px;
+    letter-spacing: 2px;
+    border-radius: 10px 0 10px 0;
+}
+.installation{
+    border-radius: 10px;
+    letter-spacing: 2px;
+    background-color: #3f33f1;
+    padding: 8px;
+    font-size: 12px;
+    color: #ffff;
+    box-shadow: 2px 2px 5px 2px #ccc;
+}
+.carrusel-add img{
+    width: 100%;
+    height: 100%;
+}
+.carrusel-add{
+    border-radius: 10px;
+    letter-spacing: 2px;
+    background-color: #1605ffa2;
+    padding: 8px;
+    font-size: 12px;
+    color: #ffff;
+    box-shadow: 2px 2px 5px 2px #ccc;
+}

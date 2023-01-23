@@ -164,7 +164,7 @@ const Data = [
     },
     //rack 60-100
     {
-      "id": 11,
+      "id": 12,
       "name": "Rack para Tv techo de 26 a 40 pulgadas",
       "img": "./src/assets/products/rack-26-40pg/techo-de-26-a-40.jpg",
       "category":"Rack de 26 a 40 pulgadas", 
@@ -178,7 +178,7 @@ const Data = [
       "resiste":"30 kg"
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "Rack para Tv articulado de 60 a 75 pulgadas",
       "img": "./src/assets/products/rack-60-100pg/articulado-de-60-a-75.jpg",
       "category":"Rack de 60 a 100 pulgadas", 
@@ -192,7 +192,7 @@ const Data = [
       "resiste":"60 kg"
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Rack para Tv movil de 60 a 75 pulgadas",
       "img": "./src/assets/products/rack-60-100pg/movil-de-60-a-75.jpg",
       "category":"Rack de 60 a 100 pulgadas", 
@@ -204,7 +204,7 @@ const Data = [
       "resiste":"60 kg"
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "Rack para Tv Movil de 75 a 89 pulgadas",
       "img": "./src/assets/products/rack-60-100pg/movil-de-75-a-89.jpg",
       "category":"Rack de 60 a 100 pulgadas", 
@@ -217,7 +217,7 @@ const Data = [
       "resiste":"90 kg"
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Rack para Tv fijo de 26 a 40 pulgadas",
       "img": "./src/assets/products/rack-60-100pg/rack-para-tv-fijo-de-60-a-75-pulgadas.jpg",
       "category":"Rack de 60 a 100 pulgadas", 
@@ -229,7 +229,7 @@ const Data = [
       "resiste":"30 kg"
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "Rack para Tv de Techo de 60 a 75 pulgadas",
       "img": "./src/assets/products/rack-60-100pg/rack-para-tv-techo-de-60-a-75-pulgadas.jpg",
       "category":"Rack de 60 a 100 pulgadas", 
@@ -244,7 +244,7 @@ const Data = [
     },
     //monitores
     {
-      "id": 17,
+      "id": 18,
       "name": "Rack para Monitor 2 pantallas",
       "img": "./src/assets/products/rack-monitor/2-monitor-simple.jpg",
       "category":"Monitor", 
@@ -258,7 +258,7 @@ const Data = [
       "resiste":"8 kg"
     },
     {
-      "id": 18,
+      "id": 19,
       "name": "Rack para Monitor 2 pantallas con amortiguador",
       "img": "./src/assets/products/rack-monitor/hidraulico-2-monitor.jpg",
       "category":"Monitor", 
@@ -272,7 +272,7 @@ const Data = [
       "resiste":"7 kg"
     },
     {
-      "id": 19,
+      "id": 20,
       "name": "Rack para Monitor con Amortiguador",
       "img": "./src/assets/products/rack-monitor/monitor-hidraulico.jpg",
       "category":"Monitor", 
@@ -286,7 +286,7 @@ const Data = [
       "resiste":"7 kg"
     },
     {
-      "id": 20,
+      "id": 21,
       "name": "Rack para Monitor Brazo Movible",
       "img": "./src/assets/products/rack-monitor/monitor-simple.jpg",
       "category":"Monitor", 

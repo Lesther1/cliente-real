@@ -1,0 +1,37 @@
+.container-footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #89A09A;
+    color: #fff;
+    font-size: 13px;
+    letter-spacing: 3px;
+    padding: 2% 0 2% 0;
+}
+.container-footer a{
+    display: flex;
+    margin-top: 8%;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 100;
+    text-decoration: none;
+    letter-spacing: 3px;
+}
+.container-footer p,input,button{
+    margin-top: 3%;
+}
+.container-fourth-section{
+    display: flex;
+    flex-direction: column;
+}
+.container-footer button{
+    width: 30%;
+    background-color: #fff;
+    border-radius: 10px;
+    border: transparent;
+}
+.container-footer input{
+    border-radius: 10px;
+    border: transparent;
+    padding: 1% 0 1% 3%;
+}

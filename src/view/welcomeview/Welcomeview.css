@@ -1,0 +1,8 @@
+.welcome-view-container{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2%;
+    margin-left: 10%;
+}

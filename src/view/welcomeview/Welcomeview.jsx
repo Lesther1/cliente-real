@@ -1,17 +1,15 @@
 import React from 'react'
-import Header from '../../components/header/Header'
-import MainNb from '../../components/mainnb/MainNb'
-import Nbenterprise from '../../components/nbenterprise/Nbenterprise'
-import Data from "../../../Data.js"
 import './Welcomeview.css'
+import Carrusel from '../../components/carrusel/Carrusel'
+import Card from '../../components/card/Card'
 
 
 export const Welcomeview = () => {
   return (
     <div className='welcome-view-container'>
-        <Nbenterprise/>
-        <Header/>
-        <MainNb/>
+        <Carrusel/>
+        <Card/>
     </div>
   )
 }
+export default Welcomeview

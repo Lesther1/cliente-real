@@ -1,5 +1,6 @@
 import React from 'react'
-import whatsapp from '../../assets/whatsapp.png'
+import { NavLink } from "react-router-dom";
+import whatsapp from '../../assets/whatsapp.png';
 import './MainNb.css'
 
 function MainNb() {
@@ -7,9 +8,17 @@ function MainNb() {
     <div className='main-container-mainnb'>
       <div className='list-container'>
         <ul>
-          <li>Inicio</li>
+          <li>
+          <NavLink to="/welcomeview">
+              Inicio
+            </NavLink>
+          </li>
           <li>Lo nuevo</li>
-          <li>Productos</li>
+          <li>
+            <NavLink to="/productview">
+              Productos
+            </NavLink>
+            </li>
           <li>Conctacto</li>
         </ul>
       </div>
